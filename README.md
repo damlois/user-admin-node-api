@@ -16,7 +16,7 @@ use the second command if nodemon the nodemon module is insatalled
 * node app.js
 * nodemon app.js
 
-## Conributing
+## Contribution
 pull requests are welcome
 
 ## Author
